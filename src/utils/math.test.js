@@ -3,7 +3,7 @@ import { sum, subtract } from "./math";
 
 describe("math", () => {
   it("suma dos números", () => {
-    expect(sum(2, 3)).toBe(5);
+    expect(sum(3, 3)).toBe(6);
   });
 
   it("resta dos números", () => {
