@@ -1,5 +1,5 @@
-export function sum(a, b, c ) {
-  return a + b + c ;
+export function sum(a, b) {
+  return a + b  ;
 }
 
 export function subtract(a, b) {
